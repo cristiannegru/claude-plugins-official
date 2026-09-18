@@ -386,7 +386,7 @@
         "url": "https://github.com/aws/agent-toolkit-for-aws.git",
         "path": "plugins/aws-agents",
         "ref": "main",
-        "sha": "de9d0249ce33f56929dbf605a9e75773ab381f11"
+        "sha": "9dd9d8bbe14b1e2c569b36f7d463959ad6638436"
       },
       "homepage": "https://github.com/aws/agent-toolkit-for-aws"
     },
